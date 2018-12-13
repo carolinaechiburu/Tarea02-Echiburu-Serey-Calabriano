@@ -1,10 +1,9 @@
 # Tarea02-Echiburu-Serey-Calabriano
-.
 -Integrantes:
 -------------
--Carolina Echiburu - 20171816.3.
--Sebastian Serey - 19543728.8. 
-.
--URL:
-------
-sdjlakjd
+-Carolina Viviana Echiburu Cueto ;  carolina.echiburu@alumnos.uv.cl
+-Sebastian Tadeo Serey Carrillo; sebastian.serey@alumnos.uv.cl
+-Franco Enzo David Calabriano Garrido; franco.calabriano@alumnos.uv.cl
+-
+-Servidor:
+----------
