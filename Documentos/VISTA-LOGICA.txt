@@ -1,0 +1,25 @@
+
+
+
+// ***************************** VISTA LOGICA *****************************
+
+---->Documentos
+-------->INFORME-TAREA02.pdf
+-------->VISTA-DE-PROCESOS.txt
+-------->VISTA-LOGICA.txt
+----> Tarea02
+-------->bin
+------------>config.json
+------------>servidor
+-------->src
+------------>includes
+---------------->json.hpp
+---------------->YASL.h
+------------>Makefile
+------------>servidorWeb.cc
+-------->www-data
+------------>INTERNETWORKING.HTML
+------------>IP.HTML
+------------>NODOS.HTML
+-------->www-error
+------------>404.HTML

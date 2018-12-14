@@ -1,0 +1,9 @@
+// Archivo config.json el cual debe contener la informacion del servidor web, IP, Puerto, mensaje para las pagias web y uno de error.
+
+
+{
+    "ip"            : "127.0.0.1",
+    "puerto"        : 8080,
+    "root_dir"      : "../www-data",
+    "notFoundFile"  : "../www-error"
+}
